@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\desenvolvimento-dio\\projeto-series-net\\DIO.Series\\DIO.Series.csproj": {}
+    "d:\\desenvolvimento-dio\\projeto-series-net\\DIO.Series\\DIO.Series.csproj": {}
   },
   "projects": {
-    "D:\\desenvolvimento-dio\\projeto-series-net\\DIO.Series\\DIO.Series.csproj": {
+    "d:\\desenvolvimento-dio\\projeto-series-net\\DIO.Series\\DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\desenvolvimento-dio\\projeto-series-net\\DIO.Series\\DIO.Series.csproj",
+        "projectUniqueName": "d:\\desenvolvimento-dio\\projeto-series-net\\DIO.Series\\DIO.Series.csproj",
         "projectName": "DIO.Series",
-        "projectPath": "D:\\desenvolvimento-dio\\projeto-series-net\\DIO.Series\\DIO.Series.csproj",
+        "projectPath": "d:\\desenvolvimento-dio\\projeto-series-net\\DIO.Series\\DIO.Series.csproj",
         "packagesPath": "C:\\Users\\mxa\\.nuget\\packages\\",
-        "outputPath": "D:\\desenvolvimento-dio\\projeto-series-net\\DIO.Series\\obj\\",
+        "outputPath": "d:\\desenvolvimento-dio\\projeto-series-net\\DIO.Series\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
